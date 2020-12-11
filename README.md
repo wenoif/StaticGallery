@@ -6,7 +6,7 @@
 
 作用：托管到Github、Gitee等平台作为图库、纪念相册等。
 
-展示：[https://wenoif.github.io/StaticGallery/index.html](https://wenoif.github.io/StaticGallery/index.html)
+展示：[https://wenoif.github.io/StaticGallery/](https://wenoif.github.io/StaticGallery/)
 
 代码：[https://github.com/wenoif/StaticGallery](https://github.com/wenoif/StaticGallery)
 
